@@ -1,0 +1,9 @@
+name: dart
+description: basic window
+version: 0.0.1
+
+environment:
+  sdk: ^3.3.3
+
+dependencies:
+  raylib: ^0.3.0
