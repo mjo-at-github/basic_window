@@ -1,1 +1,1 @@
-A sample command-line application providing basic argument parsing with an entrypoint in `bin/`.
+Dart implementation of https://github.com/raysan5/raylib/blob/master/examples/core/core_basic_window.c
